@@ -6,3 +6,5 @@ fun = @(x) x^2;
 vector_x = 1:10;
 
 vector_y = pararrayfun(nproc, fun, vector_x)
+
+Clear
